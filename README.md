@@ -5,7 +5,10 @@ The collection of command-line games. Have fun!
 ## Prerequisites
 
 -   Python 3.x
--   `requests` library (can be installed via `pip install requests`)
+-   Install libraries using "requirements.txt"
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ## Setup
 
