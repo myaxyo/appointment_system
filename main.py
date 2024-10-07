@@ -1,8 +1,8 @@
-from game_starter import game_starter
+from book import book
 
 
 def main():
-    game_starter()
+    book()
 
 
 if __name__ == "__main__":

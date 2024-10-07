@@ -1,0 +1,6 @@
+/__pycache__
+/.vscode
+/email_sender/__pycache__
+.env
+.private.env
+/appointments.json
