@@ -61,6 +61,7 @@ Follow the on-screen prompts to manage appointments.
 -   `appointment.py`: Contains the `Appointment` class
 -   `helpers.py`: Contains helper functions for date/time operations
 -   `email_sender/main.py`: Contains the email sending functionality
+-   `email_sender/templates.py`: Contains HTML templates
 -   `.private.env`: Contains email configuration (not tracked by git)
 
 ## Email Configuration
